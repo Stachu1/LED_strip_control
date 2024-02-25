@@ -1,7 +1,7 @@
 # Addressable LEDs controller
-Meant to be run on an Arduino like board.
-Simple hardware, requiers only two buttons and a potentiometer to controll the briqhtness.
-Ueses EEPROM for storing the last settiing and [FastLED](https://fastled.io/) library for controlling the LEDs.
+Meant to be run on an Arduino-like board.
+Simple hardware requires only two buttons and a potentiometer to control the brightness.
+Uses EEPROM for storing the last settiing and the [FastLED](https://fastled.io/) library for controlling the LEDs.
 
 ## Download
 ```bash
